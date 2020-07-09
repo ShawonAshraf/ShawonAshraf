@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 ![cover](https://github.com/ShawonAshraf/ShawonAshraf/blob/master/20638697_10214017892586467_2729018121754415081_n.jpg)
 
 # Shawon Ashraf
+> Was this introduction really necessary, GitHub?
 
+[![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://www.shawonashraf.com)
 ![GitHub followers](https://img.shields.io/github/followers/ShawonAshraf?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/shawon_ashraf?style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/shawon-ashraf-93?style=social)
+[![NPM](https://img.shields.io/badge/--npm?label=NPM&logo=npm&style=social)](https://www.npmjs.com/~rockash93)
 ![Twitch Status](https://img.shields.io/twitch/status/shawon_ashraf)
 
 ![PSN](https://card.psnprofiles.com/1/rockash93.png)
@@ -29,7 +32,10 @@ Hi! I'm Shawon Ashraf.
 I'm currently doing my MSc in [Computational Linguistics at Universität Stuttgart](https://www.ims.uni-stuttgart.de). Previously I completed my BSc in Computer Science and Engineering from North South University, Dhaka. I'm a native of Dhaka, Bangladesh, currently living in Stuttgart, Germany.
 
 ### 🔭 $CURRENTLY_WORKING_ON
-What do people do in grad school? They try their best to survive.
+- Multi Label Emotion classification from text. (The repo is private and will be made public soon)
+
+### 🧳 $FORMAL_WORK_EXPERIENCE
+- Former Software Engineer (JavaScript) at [Cefalo AS](https://www.cefalo.com/). Worked on the server side rendering service of [dn.no](https://www.dn.no).
 
 ### 👾 $PROG_LANG_I_KNOW
 Python, Java, JS and some basic literacy in Swift.
@@ -38,11 +44,14 @@ Python, Java, JS and some basic literacy in Swift.
 Nothing, please!
 
 ### 🌱 $NOW_LEARNING
-How to be a good human being.
+- How to be a good human being.
+- Deutsch.
+- How to process text from the web and still not lose my mind.
+- PyTorch.
+- Linguistic concepts that CS people don't know have a place in NLP.
+- And everything about Python I wish I knew earlier.
 
 ### 📫 $CONTACT
-Website: [https://www.shawonashraf.com](https://www.shawonashraf.com)
-
 ```json
 {
   "github": "https://github.com/ShawonAshraf",
@@ -60,4 +69,9 @@ He/Him
 
 ### ⚡ $FUN_FACT
 There's no fun fact about me apart from the fact that I'm still stuck at bronze in Overwatch. But I don't feel bad about it.
+
+### ☕️ $SUPPORT_ME
+> Oh! that's too kind of you.
+
+[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/shawonashrafde)
 
