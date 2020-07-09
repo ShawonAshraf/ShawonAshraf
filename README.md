@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 > Was this introduction really necessary, GitHub?
 
 [![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://www.shawonashraf.com)
+[![Medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@shawonashraf)
+[![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=blog&style=social)](https://shawonashraf.github.io)
+[![DEV](https://img.shields.io/badge/--devto?label=DEV&logo=dev&style=social)](https://dev.to/shawonashraf)
+
+
+
 ![GitHub followers](https://img.shields.io/github/followers/ShawonAshraf?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/shawon_ashraf?style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/shawon-ashraf-93?style=social)
