@@ -26,9 +26,12 @@ Here are some ideas to get you started:
 
 
 ![GitHub followers](https://img.shields.io/github/followers/ShawonAshraf?style=social)
+[![NPM](https://img.shields.io/badge/--npm?label=NPM&logo=npm&style=social)](https://www.npmjs.com/~rockash93)
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/shawon_ashraf?style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/shawon-ashraf-93?style=social)
-[![NPM](https://img.shields.io/badge/--npm?label=NPM&logo=npm&style=social)](https://www.npmjs.com/~rockash93)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/shawon-ashraf-96162763/)
+
 ![Twitch Status](https://img.shields.io/twitch/status/shawon_ashraf)
 
 ![PSN](https://card.psnprofiles.com/1/rockash93.png)
