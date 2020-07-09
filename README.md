@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![cover](20638697_10214017892586467_2729018121754415081_n.jpg)
 
 # Shawon Ashraf
 
