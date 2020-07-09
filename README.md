@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/shawon-ashraf-93?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/shawon_ashraf)
 
+![PSN](https://card.psnprofiles.com/1/rockash93.png)
+
 
 ### 🤔 $WHOAMI
 Hi! I'm Shawon Ashraf.
