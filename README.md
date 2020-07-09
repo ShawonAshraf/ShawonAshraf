@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Shawon Ashraf
+
+![GitHub followers](https://img.shields.io/github/followers/ShawonAshraf?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/shawon_ashraf?style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/shawon-ashraf-93?style=social)
+![Twitch Status](https://img.shields.io/twitch/status/shawon_ashraf?style=for-the-badge)
+
+
 ### 🤔 $WHOAMI
 Hi! I'm Shawon Ashraf.
 I'm currently doing my MSc in [Computational Linguistics at Universität Stuttgart](https://www.ims.uni-stuttgart.de). Previously I completed my BSc in Computer Science and Engineering from North South University, Dhaka. I'm a native of Dhaka, Bangladesh, currently living in Stuttgart.
