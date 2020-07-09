@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/ShawonAshraf?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/shawon_ashraf?style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/shawon-ashraf-93?style=social)
-![Twitch Status](https://img.shields.io/twitch/status/shawon_ashraf?style=for-the-badge)
+![Twitch Status](https://img.shields.io/twitch/status/shawon_ashraf)
 
 
 ### 🤔 $WHOAMI
