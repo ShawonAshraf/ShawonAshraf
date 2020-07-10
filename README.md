@@ -55,6 +55,7 @@ Nothing, please!
 
 ### 🌱 $NOW_LEARNING
 - How to be a good human being.
+- How to improve my photography.
 - Deutsch.
 - How to process text from the web and still not lose my mind.
 - PyTorch.
