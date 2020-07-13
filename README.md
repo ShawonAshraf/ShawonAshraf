@@ -49,7 +49,6 @@ I'm currently doing my MSc in [Computational Linguistics at Universität Stuttga
 - Former Software Engineer (JavaScript) at [Cefalo AS](https://www.cefalo.com/). Worked on the server side rendering service of [dn.no](https://www.dn.no).
 
 ### 👾 $STACK
-Python, Java, JS and some basic literacy in Swift.
 
 ```json
 {
