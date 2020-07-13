@@ -48,8 +48,17 @@ I'm currently doing my MSc in [Computational Linguistics at Universität Stuttga
 ### 🧳 $FORMAL_WORK_EXPERIENCE
 - Former Software Engineer (JavaScript) at [Cefalo AS](https://www.cefalo.com/). Worked on the server side rendering service of [dn.no](https://www.dn.no).
 
-### 👾 $PROG_LANG_I_KNOW
+### 👾 $STACK
 Python, Java, JS and some basic literacy in Swift.
+
+```json
+{
+ "python" : ["NLTK", "Spacy", "Tensorflow", "Keras", "Core Python"],
+ "Java": ["Core Java", "Spring Boot"],
+ "js" : ["react", "express", "node"],
+ "swift" : ["swiftui", "spm", "vapor", "swift-for-tensorflow"] 
+}
+```
 
 ### ❓$ASK_ME_ABOUT
 Nothing, please!
