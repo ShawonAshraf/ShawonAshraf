@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 ![Twitch Status](https://img.shields.io/twitch/status/shawon_ashraf)
 
-![PSN](https://card.psnprofiles.com/1/rockash93.png)
-
 
 ### 🤔 $WHOAMI
 Hi! I'm Shawon Ashraf.
