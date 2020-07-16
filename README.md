@@ -52,7 +52,7 @@ I'm currently doing my MSc in [Computational Linguistics at Universität Stuttga
 ```json
 {
  "python" : ["NLTK", "Spacy", "Tensorflow", "Keras", "Core Python"],
- "Java": ["Core Java", "Spring Boot"],
+ "java": ["Core Java", "Spring Boot"],
  "js" : ["react", "express", "node"],
  "swift" : ["swiftui", "spm", "vapor", "swift-for-tensorflow"] 
 }
