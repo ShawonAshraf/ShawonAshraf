@@ -94,3 +94,7 @@ There's no fun fact about me apart from the fact that I'm still stuck at bronze 
 
 [![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/shawonashrafde)
 
+## Latest on the weather news (blog post)
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
+
