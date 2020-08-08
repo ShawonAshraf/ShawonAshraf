@@ -76,7 +76,7 @@ Nothing, please!
   "github": "https://github.com/ShawonAshraf",
   "flickr": "https://www.flickr.com/photos/rockash93/",
   "email": "shawon.ashraf@ims.uni-stuttgart.de",
-  "blog": "https://shawonashraf.github.io/",
+  "blog": "https://shawonashraf.com/",
   "medium": "https://medium.com/@shawonashraf",
   "twitter": "https://twitter.com/shawon_ashraf",
   "acm_vcard": "http://member.acm.org/~shawonashraf"
