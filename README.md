@@ -42,7 +42,7 @@ Hi! I'm Shawon Ashraf.
 I'm currently doing my MSc in [Computational Linguistics at Universität Stuttgart](https://www.ims.uni-stuttgart.de). Previously I completed my BSc in Computer Science and Engineering from North South University, Dhaka. I'm a native of Dhaka, Bangladesh, currently living in Stuttgart, Germany.
 
 ### 🔭 $CURRENTLY_WORKING_ON
-- Multi Label Emotion classification from text. (The repo is private and will be made public soon)
+- Surviving the semester!
 
 ### 🧳 $FORMAL_WORK_EXPERIENCE
 - Former Software Engineer (JavaScript) at [Cefalo AS](https://www.cefalo.com/). Worked on the server side rendering service of [dn.no](https://www.dn.no).
