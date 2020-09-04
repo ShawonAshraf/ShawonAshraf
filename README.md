@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://shawonashraf.netlify.app/)
 [![Medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@shawonashraf)
-[![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=blog&style=social)](https://shawonashraf.github.io)
+[![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=blog&style=social)](https://shawonashraf.com)
 
 <a href="https://dev.to/shawonashraf"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shawon Ashraf's DEV Profile" height="50" width="50"></a>
 
