@@ -96,10 +96,10 @@ There's no fun fact about me apart from the fact that I'm still stuck at bronze 
 
 ## Latest on the weather news (blog post)
 <!-- HASHNODE:START -->
+- [শোয়াবিদের দেশে](https://shawonashraf.com/4ka24kel4kav4ka84ka4kas4ka4kam4keh4kawiocmpucnhcmtucnhw-ckex46htu01zwggs102jqekgq)
 - [Collocation discovery with PMI](https://shawonashraf.com/collocation-discovery-with-pmi-ckdjgb92y01rdzzs18zy1h9rj)
 - [Feature scaling strategy - Mean, Median or Mode?](https://shawonashraf.com/feature-scaling-strategy-mean-median-or-mode-ckdjfv4ni01qgz2s1dmfmcj1i)
 - [Tracking Download Progress with URLSessionDownloadDelegate](https://shawonashraf.com/tracking-download-progress-with-urlsessiondownloaddelegate-ckdjhgqsn01sjz2s14ht8ht6r)
 - [Loading images from URL in Swift](https://shawonashraf.com/loading-images-from-url-in-swift-ckdjgwpj701ryzzs14p2qckdn)
-- [Swift - PAT or Generics?](https://shawonashraf.com/swift-pat-or-generics-ckdjhcmt501sfzzs111i9eho6)
 <!-- HASHNODE:END -->
 
