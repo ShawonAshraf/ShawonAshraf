@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### 🤔 $WHOAMI
 Hi! I'm Shawon Ashraf.
-I'm currently doing my MSc in [Computational Linguistics at Universität Stuttgart](https://www.ims.uni-stuttgart.de). Previously I completed my BSc in Computer Science and Engineering from North South University, Dhaka. I'm a native of Dhaka, Bangladesh, currently living in Stuttgart, Germany.
+I'm currently doing my MSc in [Computational Linguistics at Universität Stuttgart](https://www.ims.uni-stuttgart.de). Previously I completed my BSc in Computer Science and Engineering from North South University, Dhaka. I'm a native of Dhaka, Bangladesh, currently living in Esslingen Am Neckar, Germany.
 
 ### 🔭 $CURRENTLY_WORKING_ON
 - Surviving the semester!
