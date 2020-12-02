@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 [![Medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@shawonashraf)
 [![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=blog&style=social)](https://shawonashraf.github.io)
 
-<a href="https://dev.to/shawonashraf"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shawon Ashraf's DEV Profile" height="50" width="50"></a>
-
 
 
 ![GitHub followers](https://img.shields.io/github/followers/ShawonAshraf?style=social)
@@ -88,9 +86,4 @@ He/Him
 
 ### ⚡ $FUN_FACT
 There's no fun fact about me apart from the fact that I'm still stuck at bronze in Overwatch. But I don't feel bad about it.
-
-### ☕️ $SUPPORT_ME
-> Oh! that's too kind of you.
-
-[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/shawonashrafde)
 
