@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/shawon-ashraf-93?style=social)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/shawon-ashraf-96162763/)
 
-![ALL](https://card.exophase.com/2/0/47566.png?1594632539)
 
 ![Twitch Status](https://img.shields.io/twitch/status/shawon_ashraf)
 
