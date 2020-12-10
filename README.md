@@ -39,28 +39,20 @@ Hi! I'm Shawon Ashraf.
 I'm currently doing my MSc in [Computational Linguistics at Universität Stuttgart](https://www.ims.uni-stuttgart.de). Previously I completed my BSc in Computer Science and Engineering from North South University, Dhaka. I'm a native of Dhaka, Bangladesh, currently living in Esslingen Am Neckar, Germany.
 
 ### 🔭 $CURRENTLY_WORKING_ON
-- Surviving the semester!
+- Emotion analysis and classification from text
+- Natural language understanding
 
 ### 🧳 $FORMAL_WORK_EXPERIENCE
-- Former Software Engineer (JavaScript) at [Cefalo AS](https://www.cefalo.com/). Worked on the server side rendering service of [dn.no](https://www.dn.no).
+- Former Software Engineer (JavaScript) at [Cefalo AS](https://www.cefalo.com/). 
+- Scientific Assistant (Hilfswissenschaftler - HiWi) at Universität Stuttgart
 
-### 👾 $STACK
+### 👾 $LANG
 
-```json
-{
- "python" : ["NLTK", "Spacy", "Tensorflow", "Keras", "Core Python"],
- "java": ["Core Java", "Spring Boot"],
- "js" : ["react", "express", "node"],
- "swift" : ["swiftui", "spm", "vapor", "swift-for-tensorflow"] 
-}
+```bash
+Python, Swift, Java, Javascript
 ```
 
-### ❓$ASK_ME_ABOUT
-Nothing, please!
-
 ### 🌱 $NOW_LEARNING
-- How to be a good human being.
-- How to improve my photography.
 - Deutsch.
 - How to process text from the web and still not lose my mind.
 - PyTorch.
@@ -79,10 +71,4 @@ Nothing, please!
   "acm_vcard": "http://member.acm.org/~shawonashraf"
 }
 ```
-
-### 😄 $PRONOUNS
-He/Him
-
-### ⚡ $FUN_FACT
-There's no fun fact about me apart from the fact that I'm still stuck at bronze in Overwatch. But I don't feel bad about it.
 
