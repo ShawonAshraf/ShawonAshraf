@@ -40,11 +40,11 @@ I'm currently doing my MSc in [Computational Linguistics at Universität Stuttga
 
 ### 🔭 $CURRENTLY_WORKING_ON
 - Emotion analysis and classification from text
-- Natural language understanding
+- Natural language understanding and slot filling
 
 ### 🧳 $FORMAL_WORK_EXPERIENCE
 - Former Software Engineer (JavaScript) at [Cefalo AS](https://www.cefalo.com/). 
-- Scientific Assistant (Hilfswissenschaftler - HiWi) at Universität Stuttgart
+- Scientific Assistant (Hilfswissenschaftler - HiWi) at Universität Stuttgart. (November 2020 - Present)
 
 ### 👾 $LANG
 
