@@ -35,7 +35,13 @@ Here are some ideas to get you started:
 
 
 ### 🤔 $WHOAMI
-MSc in [Computational Linguistics at Universität Stuttgart](https://www.ims.uni-stuttgart.de)
+Masters Student
+[Computational Linguistics at Universität Stuttgart](https://www.ims.uni-stuttgart.de)
+
+```
+A man has nothing else to tell about himself.
+~ Valar Morghulis ~
+```
 
 ### 🔭 $CURRENTLY_WORKING_ON
 - Emotion analysis and classification from text
