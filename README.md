@@ -1,17 +1,3 @@
- <!--
-**ShawonAshraf/ShawonAshraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![cover](https://github.com/ShawonAshraf/ShawonAshraf/blob/master/20638697_10214017892586467_2729018121754415081_n.jpg)
 
 # Shawon Ashraf
@@ -35,8 +21,11 @@ Here are some ideas to get you started:
 
 
 ### 🤔 $WHOAMI
+```
 Masters Student
-[Computational Linguistics at Universität Stuttgart](https://www.ims.uni-stuttgart.de)
+Computational Linguistics
+Universität Stuttgart
+```
 
 ```
 A man has nothing else to tell about himself.
