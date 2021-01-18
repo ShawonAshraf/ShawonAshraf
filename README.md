@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 
 
 ### 🤔 $WHOAMI
-Hi! I'm Shawon Ashraf.
-I'm currently doing my MSc in [Computational Linguistics at Universität Stuttgart](https://www.ims.uni-stuttgart.de). Previously I completed my BSc in Computer Science and Engineering from North South University, Dhaka. I'm a native of Dhaka, Bangladesh, currently living in Esslingen Am Neckar, Germany.
+MSc in [Computational Linguistics at Universität Stuttgart](https://www.ims.uni-stuttgart.de)
 
 ### 🔭 $CURRENTLY_WORKING_ON
 - Emotion analysis and classification from text
@@ -62,13 +61,13 @@ Python, Swift, Java, Javascript
 ### 📫 $CONTACT
 ```json
 {
-  "github": "https://github.com/ShawonAshraf",
   "flickr": "https://www.flickr.com/photos/rockash93/",
   "email": "shawon.ashraf@ims.uni-stuttgart.de",
   "blog": "https://shawonashraf.github.io/",
   "medium": "https://medium.com/@shawonashraf",
   "twitter": "https://twitter.com/shawon_ashraf",
-  "acm_vcard": "http://member.acm.org/~shawonashraf"
+  "acm_vcard": "http://member.acm.org/~shawonashraf",
+  "goodreads": "https://www.goodreads.com/user/show/45256672-shawon-ashraf"
 }
 ```
 
