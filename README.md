@@ -34,7 +34,7 @@ A man has nothing else to tell about himself.
 
 ### 🔭 $CURRENTLY_WORKING_ON
 - Emotion analysis and classification from text
-- Natural language understanding and slot filling
+- Natural language understanding 
 
 ### 🧳 $FORMAL_WORK_EXPERIENCE
 - Former Software Engineer (JavaScript) at [Cefalo AS](https://www.cefalo.com/). 
