@@ -7,7 +7,7 @@
 [![Medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@shawonashraf)
 [![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=blog&style=social)](https://shawonashraf.com/)
 
-### 🤔 $WHOAMI
+### 🤔 Myself?
 ```
 Masters Student
 Computational Linguistics
@@ -19,36 +19,41 @@ A man has nothing else to tell about himself.
 ~ Valar Morghulis ~
 ```
 
-### 🔭 $CURRENTLY_WORKING_ON
-- Emotion analysis and classification from text
-- Natural language understanding 
+### 🔭 Reading and Tinkering
+#### Reading
+- Affective Computing (Picard)
+- Linguistics Fundamentals for Natural Language Processing (Bender)
+- Linux Bible (Negus)
+- Statistics for Linguists - An Introduction using R (Winter)
+- Reinforcement Learning (Sutton)
 
-### 🧳 $FORMAL_WORK_EXPERIENCE
+#### Tinkering
+- Meta Learning
+- Multi task learning
+- `systemd`
+- R
+- PyTorch
+- Deep Generative Models
+
+
+### 🧳 Work
 - Former Software Engineer (JavaScript) at [Cefalo AS](https://www.cefalo.com/). 
 - Scientific Assistant (Hilfswissenschaftler - HiWi) at Universität Stuttgart. (November 2020 - Present)
 
-### 👾 $LANG
+### 👾 Sprache
 
 ```bash
 Python, Swift, Java, Javascript
 ```
 
-### 🌱 $NOW_LEARNING
-- Deutsch.
-- How to process text from the web and still not lose my mind.
-- PyTorch.
-- Linguistic concepts that CS people don't know have a place in NLP.
-- And everything about Python I wish I knew earlier.
 
-### 📫 $CONTACT
+### 📫 Me on the internet
 ```json
 {
   "flickr": "https://www.flickr.com/photos/rockash93/",
-  "email": "shawon.ashraf@ims.uni-stuttgart.de",
-  "blog": "https://shawonashraf.github.io/",
+  "blog": "https://shawonashraf.com/",
   "medium": "https://medium.com/@shawonashraf",
   "twitter": "https://twitter.com/shawon_ashraf",
-  "acm_vcard": "http://member.acm.org/~shawonashraf",
   "goodreads": "https://www.goodreads.com/user/show/45256672-shawon-ashraf"
 }
 ```
