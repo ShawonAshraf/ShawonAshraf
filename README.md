@@ -7,12 +7,6 @@
 [![Medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@shawonashraf)
 [![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=blog&style=social)](https://shawonashraf.com/)
 
-
-
-![GitHub followers](https://img.shields.io/github/followers/ShawonAshraf?style=social)
-[![NPM](https://img.shields.io/badge/--npm?label=NPM&logo=npm&style=social)](https://www.npmjs.com/~rockash93)
-
-
 ### 🤔 $WHOAMI
 ```
 Masters Student
