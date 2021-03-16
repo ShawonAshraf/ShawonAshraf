@@ -26,6 +26,7 @@ A man has nothing else to tell about himself.
 - Linux Bible (Negus)
 - Statistics for Linguists - An Introduction using R (Winter)
 - Reinforcement Learning (Sutton)
+- The Annotated Turing (Petzold)
 
 #### Tinkering
 - Meta Learning
