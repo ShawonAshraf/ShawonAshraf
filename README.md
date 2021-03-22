@@ -21,12 +21,7 @@ A man has nothing else to tell about himself.
 
 ### 🔭 Reading and Tinkering
 #### Reading
-- Affective Computing (Picard)
-- Linguistics Fundamentals for Natural Language Processing (Bender)
-- Linux Bible (Negus)
-- Statistics for Linguists - An Introduction using R (Winter)
-- Reinforcement Learning (Sutton)
-- The Annotated Turing (Petzold)
+https://www.goodreads.com/review/list/45256672?shelf=currently-reading
 
 #### Tinkering
 - Meta Learning
