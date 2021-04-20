@@ -30,11 +30,13 @@ https://www.goodreads.com/review/list/45256672?shelf=currently-reading
 - R
 - PyTorch
 - Deep Generative Models
+- VQA
+- Machine Translation
 
 
 ### 🧳 Work
 - Former Software Engineer (JavaScript) at [Cefalo AS](https://www.cefalo.com/). 
-- Scientific Assistant (Hilfswissenschaftler - HiWi) at Universität Stuttgart. (November 2020 - Present)
+- Scientific Assistant (Hilfswissenschaftler - HiWi) at Universität Stuttgart. (November 2020 - March 2021)
 
 ### 👾 Sprache
 
