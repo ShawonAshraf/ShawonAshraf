@@ -25,11 +25,9 @@ https://www.goodreads.com/review/list/45256672?shelf=currently-reading
 
 #### Tinkering
 - Meta Learning
-- Multi task learning
 - `systemd`
 - R
 - PyTorch
-- Deep Generative Models
 - VQA
 - Machine Translation
 
