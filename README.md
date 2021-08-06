@@ -3,9 +3,9 @@
 # Shawon Ashraf
 > Was this introduction really necessary, GitHub?
 
-[![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://shawonashraf.github.io)
+[![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://shawonashraf.com)
 [![Medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@shawonashraf)
-[![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=blog&style=social)](https://shawonashraf.com/)
+[![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=blog&style=social)](https://blog.shawonashraf.com/)
 
 ### 🤔 Myself?
 ```
@@ -47,7 +47,7 @@ Python, Swift, Java, Javascript
 ```json
 {
   "flickr": "https://www.flickr.com/photos/rockash93/",
-  "blog": "https://shawonashraf.com/",
+  "blog": "https://blog.shawonashraf.com/",
   "medium": "https://medium.com/@shawonashraf",
   "twitter": "https://twitter.com/shawon_ashraf",
   "goodreads": "https://www.goodreads.com/user/show/45256672-shawon-ashraf"
