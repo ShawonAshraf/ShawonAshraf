@@ -1,7 +1,5 @@
-![cover](https://github.com/ShawonAshraf/ShawonAshraf/blob/master/20638697_10214017892586467_2729018121754415081_n.jpg)
-
 # Shawon Ashraf
-> Was this introduction really necessary, GitHub?
+> Was this introduction really necessary, GitHub? Ich bin nur ein anderes Kartoffeln in der Welt!
 
 [![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://shawonashraf.com)
 [![Medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@shawonashraf)
@@ -35,6 +33,7 @@ https://www.goodreads.com/review/list/45256672?shelf=currently-reading
 ### 🧳 Work
 - Former Software Engineer (JavaScript) at [Cefalo AS](https://www.cefalo.com/). 
 - Scientific Assistant (Hilfswissenschaftler - HiWi) at Universität Stuttgart. (November 2020 - March 2021)
+- Scientific Assistant (Hilfswissenschaftler - HiWi) at Universität Stuttgart. (October 2021 - March 2021)
 
 ### 👾 Sprache
 
