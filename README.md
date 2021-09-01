@@ -23,11 +23,10 @@ https://www.goodreads.com/review/list/45256672?shelf=currently-reading
 
 #### Tinkering
 - Meta Learning
-- `systemd`
-- R
 - PyTorch
 - VQA
 - Machine Translation
+- Metaphors in Translation
 
 
 ### 🧳 Work
