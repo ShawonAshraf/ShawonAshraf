@@ -30,7 +30,7 @@ https://www.goodreads.com/review/list/45256672?shelf=currently-reading
 
 
 ### 🧳 Work
-- Former Software Engineer (JavaScript) at [Cefalo AS](https://www.cefalo.com/). 
+- Software Engineer (JavaScript) at [Cefalo AS](https://www.cefalo.com/). (2018)
 - Scientific Assistant (Hilfswissenschaftler - HiWi) at Universität Stuttgart. (November 2020 - March 2021)
 - Scientific Assistant (Hilfswissenschaftler - HiWi) at Universität Stuttgart. (October 2021 - March 2021)
 
