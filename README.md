@@ -25,8 +25,7 @@ https://www.goodreads.com/review/list/45256672?shelf=currently-reading
 - Meta Learning
 - PyTorch
 - VQA
-- Machine Translation
-- Metaphors in Translation
+- Jax
 
 
 ### 🧳 Work
