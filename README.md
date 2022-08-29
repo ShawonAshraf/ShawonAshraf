@@ -22,22 +22,15 @@ A man has nothing else to tell about himself.
 https://www.goodreads.com/review/list/45256672?shelf=currently-reading
 
 #### Tinkering
-- Meta Learning
-- PyTorch
-- VQA
-- Jax
+- Few Shot Learning
+- Procedural Reasoning
+- Graph Neural Nets
 
 
-### 🧳 Work
+### 🧳 Prior Work
 - Software Engineer (JavaScript) at [Cefalo AS](https://www.cefalo.com/). (2018)
 - Scientific Assistant (Hilfswissenschaftler - HiWi) at Universität Stuttgart. (November 2020 - March 2021)
-- Scientific Assistant (Hilfswissenschaftler - HiWi) at Universität Stuttgart. (October 2021 - Present)
-
-### 👾 Sprache
-
-```bash
-Python, Swift, Java, Javascript
-```
+- Scientific Assistant (Hilfswissenschaftler - HiWi) at Universität Stuttgart. (October 2021 - March 2022)
 
 
 ### 📫 Me on the internet
