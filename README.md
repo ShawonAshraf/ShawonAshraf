@@ -4,6 +4,8 @@
 [![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://shawonashraf.com)
 [![Medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@shawonashraf)
 [![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=blog&style=social)](https://blog.shawonashraf.com/)
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D16798%26project%3D%26in%3D0)](https://codetime.dev)
+
 
 ### 🤔 Myself?
 ```
