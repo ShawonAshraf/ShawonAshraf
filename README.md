@@ -24,10 +24,9 @@ A man has nothing else to tell about himself.
 https://www.goodreads.com/review/list/45256672?shelf=currently-reading
 
 #### Tinkering
-- Few Shot Learning
+- Contrastive Learning
 - Procedural Reasoning
-- Optimization
-- Causal inference
+- Optimisation
 
 
 ### 🧳 Prior Work
