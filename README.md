@@ -1,5 +1,5 @@
 # Shawon Ashraf
-> Was this introduction really necessary, GitHub? Ich bin nur eine andere Kartoffeln in der Welt!
+> Was this introduction really necessary, GitHub? Ich bin nur eine andere Kartoffel in der Welt!
 
 [![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://shawonashraf.com)
 [![Medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@shawonashraf)
