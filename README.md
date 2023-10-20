@@ -4,11 +4,10 @@
 [![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://shawonashraf.com)
 [![Medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@shawonashraf)
 [![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=blog&style=social)](https://blog.shawonashraf.com/)
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D16798%26project%3D%26in%3D0)](https://codetime.dev)
 
 
 ### 🤔 Myself?
-In brief: I have a Master's degree in Computational Linguistics from IMS, Universität Stuttgart, with the primary focus on Applied Natural Language Processing, Machine Learning and Multi-Modality in NLP. I used to write a lot of Java and C++ (honorabel mention, JS) in the past but ever since I started my master's degree, I got hardstuck into Python
+In brief: I have a Master's degree in Computational Linguistics from IMS, Universität Stuttgart, with the primary focus being on Applied Natural Language Processing, Machine Learning and Multi-Modality in NLP. I used to write a lot of Java and C++ (honorabel mention, JS) in the past but ever since I started my master's degree, I got hardstuck into Python
 and that's where I am now. I can work with PyTorch and Jax for scientific computation. Data visualization is something I really need to improve on but it's not terrible either. I am currently planning a tutorial series on NLP and Deep Learning in Bangla, aimed at beginners. Other than that, I am also compiling a repository 
 of practical examples using libraries from the Jax ecosystem (mainly Jax, Flax and Optax), which is motivated by the problems I had encountered when I started learning Jax. I also have a blog site but I'm not sure when was the last time I wrote something in there. 
 
