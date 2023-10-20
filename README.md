@@ -13,7 +13,7 @@ of practical examples using libraries from the Jax ecosystem (mainly Jax, Flax a
 
 Other than Python, I am an open source and Linux affecionado, (no I don't use Arch, btw). I am also a tinkerer at home, and may have self-hosted a lot of things (I need to check what's currently running on my home server). Also, Docker and Podman. 
 
-I've prior experience as a Software Engineer (I only wrote Javascript, to be precise). Alongside, I have organised workshops and tutorials for students, ranging from beginner to intermediate topics in Machine Learning, Linux and Software Development. I've also been a teaching assistant for the Bachelor and Master's programming course offered at IMS from 2020 to 2023. 
+I've prior experience as a Software Engineer (I only wrote Javascript, to be precise). Alongside, I have organised workshops and tutorials for students, ranging from beginner to intermediate topics in Machine Learning, Linux and Software Development. I've also been a teaching assistant for the Bachelor and Master's programming courses offered at IMS from 2020 to 2023. 
 
 ### 🔭 Reading
 You can check which books I'm currently reading on my Goodreads profile. 
