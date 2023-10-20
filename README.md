@@ -1,5 +1,5 @@
 # Shawon Ashraf
-> Was this introduction really necessary, GitHub? Ich bin nur eine andere Kartoffel in der Welt!
+> Computational Linguistics, Multi-Modal Machine Learning, Procedural Reasoning
 
 [![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://shawonashraf.com)
 [![Medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@shawonashraf)
@@ -8,32 +8,18 @@
 
 
 ### 🤔 Myself?
-```
-Masters Student
-Computational Linguistics
-Universität Stuttgart
-```
+In brief: I have a Master's degree in Computational Linguistics from IMS, Universität Stuttgart, with the primary focus on Applied Natural Language Processing, Machine Learning and Multi-Modality in NLP. I used to write a lot of Java and C++ (honorabel mention, JS) in the past but ever since I started my master's degree, I got hardstuck into Python
+and that's where I am now. I can work with PyTorch and Jax for scientific computation. Data visualization is something I really need to improve on but it's not terrible either. I am currently planning a tutorial series on NLP and Deep Learning in Bangla, aimed at beginners. Other than that, I am also compiling a repository 
+of practical examples using libraries from the Jax ecosystem (mainly Jax, Flax and Optax), which is motivated by the problems I had encountered when I started learning Jax. I also have a blog site but I'm not sure when was the last time I wrote something in there. 
 
-```
-A man has nothing else to tell about himself.
-~ Valar Morghulis ~
-```
+Other than Python, I am an open source and Linux affecionado, (no I don't use Arch, btw). I am also a tinkerer at home, and may have self-hosted a lot of things (I need to check what's currently running on my home server). Also, Docker and Podman. 
 
-### 🔭 Reading and Tinkering
-#### Reading
+I've prior experience as a Software Engineer (I only wrote Javascript, to be precise). Alongside, I have organised workshops and tutorials for students, ranging from beginner to intermediate topics in Machine Learning, Linux and Software Development. I've also been a teaching assistant for the Bachelor and Master's programming course offered at IMS from 2020 to 2023. 
+
+### 🔭 Reading
+You can check which book I'm currently reading on my Goodreads profile. 
+
 https://www.goodreads.com/review/list/45256672?shelf=currently-reading
-
-#### Tinkering
-- Contrastive Learning
-- Procedural Reasoning
-- Optimisation
-
-
-### 🧳 Prior Work
-- Software Engineer (JavaScript) at [Cefalo AS](https://www.cefalo.com/). (2018)
-- Scientific Assistant (Hilfswissenschaftler - HiWi) at Universität Stuttgart. (November 2020 - March 2021)
-- Scientific Assistant (Hilfswissenschaftler - HiWi) at Universität Stuttgart. (October 2021 - March 2022)
-- Scientific Assistant (Hilfswissenschaftler - HiWi) at Universität Stuttgart. (November 2022 - February 2023)
 
 
 ### 📫 Me on the internet
