@@ -10,16 +10,12 @@
 - I used to write a lot of Java and C++ (honourable mention, JS) in the past but ever since I started my master's degree, I got hardstuck into Python
 and that's where I am now.
 - Pytorch and Jax.
-- Data visualization is something I really need to improve on but it's not terrible either.
-- I am currently planning a tutorial series on NLP and Deep Learning in Bangla, aimed at beginners.
-- Other than that, I am also compiling a repository of practical examples using libraries from the Jax ecosystem (mainly Jax, Flax and Optax), which is motivated by the problems I encountered when I started learning Jax.
-
 - Other than Python, I am an open-source and Linux aficionado, (no I don't use Arch, btw). I am also a tinkerer at home and may have self-hosted a lot of things (I need to check what's currently running on my home server).
 - Also, Docker and Podman. 
 
 - I've prior experience as a Software Engineer (I only wrote Javascript, to be precise).
 - I have organised workshops and tutorials for students, ranging from beginner to intermediate topics in Machine Learning, Linux and Software Development.
-- I've also been a teaching assistant for the Bachelor and Master's programming courses offered at IMS from 2020 to 2023. 
+- I've also been a teaching assistant for the Bachelor's and Master's programming courses offered at IMS from 2020 to 2023. 
 
 ### 🔭 Reading
 You can check which books I'm currently reading on my Goodreads profile. 
