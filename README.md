@@ -1,5 +1,6 @@
 # Shawon Ashraf
 > NLP, Computational Linguistics, Multi-Modal Deep Learning
+
 > Junior AI Engineer, ellamind GmbH
 
 [![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://shawonashraf.com)
