@@ -18,7 +18,7 @@ and that's where I am now.
 - I've prior experience as a Software Engineer (Javascript, Swift, SwiftUI).
 - I have organised workshops and tutorials for students, ranging from beginner to intermediate topics in Machine Learning, Linux and Software Development.
 - I've also been a teaching assistant for the Bachelor's and Master's programming courses offered at IMS from 2020 to 2023.
-- Junior AI Engineer at ellamind GmbH from April 2024.
+- Junior AI Engineer at ellamind GmbH since April 2024.
 
 ### 🔭 Reading
 You can check which books I'm currently reading on my Goodreads profile. 
