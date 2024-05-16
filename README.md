@@ -2,24 +2,14 @@
 > NLP, Computational Linguistics, Multi-Modal Deep Learning
 
 > Junior AI Engineer, ellamind GmbH
+> DiscoResearch
 
 [![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://shawonashraf.com)
 [![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=blog&style=social)](https://blog.shawonashraf.com/)
 
 
 ### 🤔 Myself?
-- I have a Master's degree in Computational Linguistics from IMS, Universität Stuttgart, with the primary focus being on Applied Natural Language Processing, Machine Learning and Multi-Modality in NLP.
-- I used to write a lot of Java and C++ (honourable mention, JS) in the past but ever since I started my master's degree, I got hardstuck into Python
-and that's where I am now.
-- Pytorch and Jax.
-- Other than Python, I am an open-source and Linux aficionado, (no I don't use Arch, btw). I am also a tinkerer at home and may have self-hosted a lot of things (I need to check what's currently running on my home server).
-- Also, Docker and Podman. 
-
-- I've prior experience as a Software Engineer (Javascript, Swift, SwiftUI).
-- I have organised workshops and tutorials for students, ranging from beginner to intermediate topics in Machine Learning, Linux and Software Development.
-- I've also been a teaching assistant for the Bachelor's and Master's programming courses offered at IMS from 2020 to 2023.
-- Junior AI Engineer at [ellamind GmbH](https://ellamind.com/en/) since April 2024.
-- Also contributing to [DiscoResearch](https://huggingface.co/DiscoResearch)
+I hold a Master's degree in Computational Linguistics from Universität Stuttgart, specializing in Applied NLP, Machine Learning, and Multi-Modality in NLP, with a firm grip on Python, PyTorch, and Jax. Previously skilled in Java and C++, I now primarily focus on Python for LLM based applications (RAG, Fine-Tuning, Evaluation, Synthetic Data Generation) and contribute to open-source initiatives, emphasizing container (Docker, Podman) based workflows. My professional experience includes being a Software Engineer (JavaScript and Swift), organizing workshops, serving as a teaching assistant, and currently working as a Junior AI Engineer at ellamind GmbH while contributing to DiscoResearch.
 
 ### 📫 Me on the internet
 ```json
