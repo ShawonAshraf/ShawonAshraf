@@ -15,7 +15,6 @@ I have a Master's degree in Computational Linguistics from Universität Stuttgar
 {
   "flickr": "https://www.flickr.com/photos/rockash93/",
   "blog": "https://blog.shawonashraf.com/",
-  "medium": "https://medium.com/@shawonashraf",
   "goodreads": "https://www.goodreads.com/user/show/45256672-shawon-ashraf"
 }
 ```
