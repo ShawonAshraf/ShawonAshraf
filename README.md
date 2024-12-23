@@ -3,7 +3,7 @@
 
 
 [![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://shawonashraf.com)
-[![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=blog&style=social)](https://blog.shawonashraf.com/)
+[![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=blog&style=social)]([https://blog.shawonashraf.com/](https://shawonashraf.hashnode.dev/))
 
 
 ### 🤔 Myself?
@@ -14,7 +14,7 @@ I have a Master's degree in Computational Linguistics from Universität Stuttgar
 ```json
 {
   "flickr": "https://www.flickr.com/photos/rockash93/",
-  "blog": "https://blog.shawonashraf.com/",
+  "blog": "[https://blog.shawonashraf.com/](https://shawonashraf.hashnode.dev/)",
   "goodreads": "https://www.goodreads.com/user/show/45256672-shawon-ashraf"
 }
 ```
