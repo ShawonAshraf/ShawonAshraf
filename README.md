@@ -3,7 +3,7 @@
 
 
 [![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://shawonashraf.com)
-[![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=blog&style=social)](https://shawonashraf.hashnode.dev/))
+[![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=blog&style=social)](https://shawonashraf.hashnode.dev/)
 
 
 ### 🤔 Myself?
