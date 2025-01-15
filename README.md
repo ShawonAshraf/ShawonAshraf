@@ -10,11 +10,3 @@
 I have a Master's degree in Computational Linguistics from Universität Stuttgart, specializing in Applied NLP, Machine Learning, and Multi-Modality in NLP.  My professional experience includes being a Software Engineer (JavaScript and Swift), organising workshops, and serving as a teaching assistant. 
 
 
-### 📫 Me on the internet
-```json
-{
-  "blog": "https://shawonashraf.hashnode.dev/",
-  "goodreads": "https://www.goodreads.com/user/show/45256672-shawon-ashraf"
-}
-```
-
