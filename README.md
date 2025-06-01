@@ -7,6 +7,22 @@
 
 
 ### 🤔 Myself?
-I have a Master's degree in Computational Linguistics from Universität Stuttgart, specializing in Applied NLP, Machine Learning, and Multi-Modality in NLP.  My professional experience includes being a Software Engineer (JavaScript and Swift), organising workshops, and serving as a teaching assistant. 
+```cpp
+#include <string>
+#include <vector>
+
+
+std::vector<std::string> myself() {
+    std::vector<std::string> shawon = {
+        "MSc in Computational Linguistics",
+        "Applied Natural Language Processing, Grounding Vision in Language",
+        "RAG, Fine Tuning LLMs and Synthetic Data Deneration",
+        "Pytorch, Jax, CUDA, Pallas",
+        "Photography, Music, Books"
+    };
+    
+    return shawon;
+}
+```
 
 
