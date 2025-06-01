@@ -12,8 +12,11 @@
 #include <vector>
 
 
-std::vector<std::string> myself() {
-    std::vector<std::string> shawon = {
+typedef std::vector<std::string> Information;
+
+
+Information myself() {
+    Information shawon = {
         "MSc in Computational Linguistics",
         "Applied Natural Language Processing, Grounding Vision in Language",
         "RAG, Fine Tuning LLMs and Synthetic Data Deneration",
