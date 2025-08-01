@@ -18,7 +18,6 @@ typedef std::vector<std::string> Information;
 Information myself() {
     Information shawon = {
         "Doctoral Researcher @ TU/e Eindhoven"
-        "MSc. in Computational Linguistics, University of Stuttgart",
         "OpenEuroLLM",
         "Grounding Vision in Language, Evaluations",
         "Pytorch, CUDA",
