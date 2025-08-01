@@ -17,10 +17,11 @@ typedef std::vector<std::string> Information;
 
 Information myself() {
     Information shawon = {
-        "MSc in Computational Linguistics",
-        "Applied Natural Language Processing, Grounding Vision in Language",
-        "RAG, Fine Tuning LLMs and Synthetic Data Deneration",
-        "Pytorch, Jax, CUDA, Pallas",
+        "Doctoral Researcher @ TU/e Eindhoven"
+        "MSc. in Computational Linguistics, University of Stuttgart",
+        "OpenEuroLLM",
+        "Grounding Vision in Language, Evaluations",
+        "Pytorch, CUDA",
         "Photography, Music, Books"
     };
     
